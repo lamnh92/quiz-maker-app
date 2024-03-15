@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quiz-maker-app/static/css/main.ff02f4b5.css",
-    "main.js": "/quiz-maker-app/static/js/main.f1ccdf06.js",
+    "main.js": "/quiz-maker-app/static/js/main.3f1f4976.js",
     "static/js/644.2fd03ce6.chunk.js": "/quiz-maker-app/static/js/644.2fd03ce6.chunk.js",
     "static/js/619.1091a641.chunk.js": "/quiz-maker-app/static/js/619.1091a641.chunk.js",
     "static/js/453.209ee099.chunk.js": "/quiz-maker-app/static/js/453.209ee099.chunk.js",
     "static/js/907.2e5dfcbf.chunk.js": "/quiz-maker-app/static/js/907.2e5dfcbf.chunk.js",
     "index.html": "/quiz-maker-app/index.html",
     "main.ff02f4b5.css.map": "/quiz-maker-app/static/css/main.ff02f4b5.css.map",
-    "main.f1ccdf06.js.map": "/quiz-maker-app/static/js/main.f1ccdf06.js.map",
+    "main.3f1f4976.js.map": "/quiz-maker-app/static/js/main.3f1f4976.js.map",
     "644.2fd03ce6.chunk.js.map": "/quiz-maker-app/static/js/644.2fd03ce6.chunk.js.map",
     "619.1091a641.chunk.js.map": "/quiz-maker-app/static/js/619.1091a641.chunk.js.map",
     "453.209ee099.chunk.js.map": "/quiz-maker-app/static/js/453.209ee099.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.f1ccdf06.js"
+    "static/js/main.3f1f4976.js"
   ]
 }
